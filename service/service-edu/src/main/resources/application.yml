@@ -1,0 +1,23 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: service-edu
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/education?characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    username: root
+    password: 1qaz2wsx
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  profiles:
+    active: dev
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+

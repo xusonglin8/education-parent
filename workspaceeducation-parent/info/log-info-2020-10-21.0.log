@@ -1,0 +1,38 @@
+2020-10-21 13:29:53.857 [main] INFO  com.education.eduservice.eduApplication - Starting eduApplication on DESKTOP-L02PHP9 with PID 11380 (D:\workspace\education-parent\service\service-edu\target\classes started by 许松林 in D:\workspace\education-parent)
+2020-10-21 13:29:53.867 [main] INFO  com.education.eduservice.eduApplication - The following profiles are active: dev
+2020-10-21 13:29:55.376 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-21 13:29:55.686 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-10-21 13:29:55.698 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-10-21 13:29:55.699 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-21 13:29:55.699 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-10-21 13:29:55.806 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-10-21 13:29:55.806 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1812 ms
+2020-10-21 13:29:55.881 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-10-21 13:29:55.906 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-10-21 13:33:38.748 [main] INFO  com.education.eduservice.eduApplication - Starting eduApplication on DESKTOP-L02PHP9 with PID 8440 (D:\workspace\education-parent\service\service-edu\target\classes started by 许松林 in D:\workspace\education-parent)
+2020-10-21 13:33:38.757 [main] INFO  com.education.eduservice.eduApplication - The following profiles are active: dev
+2020-10-21 13:33:40.466 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-21 13:33:40.863 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-10-21 13:33:40.876 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-10-21 13:33:40.877 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-10-21 13:33:40.878 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-10-21 13:33:41.004 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-10-21 13:33:41.005 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2154 ms
+2020-10-21 13:33:41.239 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-10-21 13:33:41.386 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-10-21 13:33:41.995 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-10-21 13:33:42.089 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-21 13:33:42.373 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-10-21 13:33:42.396 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-10-21 13:33:42.446 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-10-21 13:33:42.661 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-10-21 13:33:42.704 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-10-21 13:33:42.707 [main] INFO  com.education.eduservice.eduApplication - Started eduApplication in 5.192 seconds (JVM running for 6.443)
+2020-10-21 13:33:49.483 [http-nio-8888-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-10-21 13:33:49.483 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-10-21 13:33:49.500 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 17 ms
+2020-10-21 13:37:18.063 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-21 13:37:18.065 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-10-21 13:37:18.075 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

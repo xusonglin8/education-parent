@@ -1,0 +1,63 @@
+2020-10-22 09:14:18.460 [http-nio-8888-exec-6] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:15:58.342 [http-nio-8888-exec-7] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:22:41.936 [http-nio-8888-exec-3] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:23:06.940 [http-nio-8888-exec-5] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:26:48.413 [http-nio-8888-exec-7] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:30:55.994 [http-nio-8888-exec-9] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:38:50.355 [http-nio-8888-exec-6] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:41:29.852 [http-nio-8888-exec-3] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
+2020-10-22 09:53:24.794 [http-nio-8888-exec-4] ERROR c.e.s.exceptionhandler.GlobalExceptionHandler - 
+### Error updating database.  Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+### The error may involve com.education.eduservice.mapper.EduSubjectMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO edu_subject  ( id,  parent_id,  gmt_create, gmt_modified )  VALUES  ( ?,  ?,  ?, ? )
+### Cause: java.sql.SQLException: Field 'title' doesn't have a default value
+; Field 'title' doesn't have a default value; nested exception is java.sql.SQLException: Field 'title' doesn't have a default value
